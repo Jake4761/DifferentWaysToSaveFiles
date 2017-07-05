@@ -1,0 +1,25 @@
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\bin\Debug\DPA_JM.exe
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\bin\Debug\DPA_JM.pdb
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\bin\Debug\DPA_JM.xml
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form1.resources
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Resources.resources
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.exe
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.xml
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.exe
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.xml
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\bin\Debug\DPA_JM.exe
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\bin\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\bin\Debug\DPA_JM.xml
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form1.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form2.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Menu.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Resources.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.GenerateResource.Cache
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form3.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form4.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form5.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form6.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form7.resources

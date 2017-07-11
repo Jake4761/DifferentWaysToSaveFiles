@@ -1,0 +1,63 @@
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\bin\Debug\DPA_JM.exe
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\bin\Debug\DPA_JM.pdb
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\bin\Debug\DPA_JM.xml
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form1.resources
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Resources.resources
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.exe
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.xml
+\\bassstr\pupilhome$\00mifsudj\documents\visual studio 2010\Projects\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.exe
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.xml
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\bin\Debug\DPA_JM.exe
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\bin\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\bin\Debug\DPA_JM.xml
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form1.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form2.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Menu.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Resources.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.GenerateResource.Cache
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form3.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form4.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form5.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form6.resources
+C:\Users\jake\Desktop\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form7.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.exe
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.xml
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.pdb
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\bin\Debug\DPA_JM.exe
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\bin\Debug\DPA_JM.pdb
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\bin\Debug\DPA_JM.xml
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form1.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form2.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form3.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form4.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form5.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form6.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form7.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Menu.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Resources.resources
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.GenerateResource.Cache
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\Interop.LCC11.dll
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\Interop.MsoEuro.dll
+H:\A level\Computing\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.ResolveComReference.cache
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.ResolveComReference.cache
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.xml
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form1.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form2.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form3.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form4.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form5.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form6.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Form7.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Menu.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.Resources.resources
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.vbproj.GenerateResource.Cache
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\bin\Debug\DPA_JM.exe
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\bin\Debug\DPA_JM.pdb
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\bin\Debug\DPA_JM.xml
+C:\Users\jake\Desktop\xD\DifferentWaysToSaveFiles-master\DifferentWaysToSaveFiles-master\DPA_JM\DPA_JM\obj\x86\Debug\DPA_JM.exe
